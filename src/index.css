@@ -1,0 +1,16 @@
+/**
+ * @Author: Ali Ismail
+ * @Date:   2018-04-01T14:21:39+02:00
+ * @Last modified by:   Ali Ismail
+ * @Last modified time: 2018-04-01T14:24:25+02:00
+ */
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+  font-family: sans-serif;
+}
+
+#root {
+  display: flex;
+  justify-content: flex;
+}
